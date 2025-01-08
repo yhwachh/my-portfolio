@@ -25,7 +25,7 @@
     ],
     "projects": [
         {
-            "title": "Développeur d'applications Salesforce",
+            "title": "Développeur Salesforce",
             "description": "Au cours de ce stage de six mois, j'ai contribué à la conception et au développement de solutions Salesforce personnalisées pour répondre aux besoins des utilisateurs tout en optimisant l'efficacité des processus. J'ai créé des flux automatisés (Flows), des pages Lightning, des composants LWC (Lightning Web Components) et des règles de validation (Validation Rules) pour garantir la qualité et l'intégrité des données. En parallèle, j'ai assuré des fonctions d'administration Salesforce, en gérant les utilisateurs, les autorisations et les paramètres de sécurité.",
             "skills": ["JavaScript", "HTML5", "CSS3", "Apex", "Salesforce"],
             "link": "https://www.salesforce.com/trailblazer/hec9oj3q8n93nfdvn0",
